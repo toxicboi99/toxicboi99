@@ -1,16 +1,4 @@
 <style>
-  /**** Sass Variables ****/
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: "Open Sans", sans-serif;
-  background: #333;
-}
-
 .container {
   max-width: 900px;
   display: flex;
@@ -122,8 +110,6 @@ body {
 .card:hover li:nth-child(4) a {
   transition-delay: 0.4s;
 }
-
-/**** Personal Details ****/
 .details {
   position: absolute;
   bottom: 0;
