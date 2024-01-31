@@ -1,4 +1,47 @@
 <h1>Ritesh Narayan Shah</h1>
+<div class="container">
+    
+   <div class="card-wrapper">
+      
+  <div class="card">
+        
+  <div class="card-image">
+          <img src="ritesh.jpg" alt="profile one">
+        </div>
+
+ <ul class="social-icons">
+        <li>
+          <a href="https://www.facebook.com/ritesh.sah.1291/">
+            <i class="fab fa-facebook-f"></i>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.instagram.com/riteshnarayashah/">
+            <i class="fab fa-instagram"></i>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <i class="fab fa-twitter"></i>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <i class="fab fa-dribbble"></i>
+          </a>
+        </li>
+      </ul>
+
+ <div class="details">
+        <h2>Ritesh Narayan Shah
+          <br>
+          <span class="job-title">Web Developer</span><br>
+          <span class="job-title">3 year Wordpress Exprience</span>
+        </h2>
+      </div>
+    </div>
+  </div>
+
 - 👋 Hi, I’m @Ritesh narayan Shah
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning BCA Course 
