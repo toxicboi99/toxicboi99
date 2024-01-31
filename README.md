@@ -1,4 +1,3 @@
-<style>
 .container {
   max-width: 900px;
   display: flex;
@@ -287,7 +286,6 @@ body{
       padding: 24px;
     }
 }
-</style>
 
 <h1>Ritesh Narayan Shah</h1>
 <div class="container">
