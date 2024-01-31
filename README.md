@@ -1,4 +1,4 @@
-
+<img scr="ritesh.jpg">
 - 👋 Hi, I’m @Ritesh narayan Shah
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning BCA Course 
