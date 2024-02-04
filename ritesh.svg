@@ -1,16 +1,16 @@
 <svg fill="none" viewBox="0 0 600 400" width="600" height="400" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-  <div xmlns="http://www.w3.org/1999/xhtml">
-    <style>
-      * {
-        margin: 0;
+<foreignObject width="100%" height="100%">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<style>
+* {
+   margin: 0;
         padding: 0;
         color: inherit;
         text-decoration: none;
         list-style: none;
         outline: none;
         box-sizing: border-box;
-      }
+}
 
       .body {
         --color-main: #ff9b71;
@@ -211,13 +211,13 @@
         </h1>
         <section class='items'>
           <ul>
-            <li>Writer &#38; Software Engineer</li>
+            <li>Writer &#38; Web Developer</li>
           </ul>
           <ul>
-            <li>at <a href="https://pragmaticpineapple.com">Pragmatic Pineapple</a></li>
+            <li>at <a href="https://www.google.com/search?q=ritesh+narayan+shah&rlz=1C1VDKB_enIN1077IN1077&oq=rit&gs_lcrp=EgZjaHJvbWUqCAgBEEUYJxg7MgYIABBFGDkyCAgBEEUYJxg7MgwIAhAjGCcYgAQYigUyEggDEC4YQxjHARjRAxiABBiKBTISCAQQLhhDGMcBGNEDGIAEGIoFMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEIMjI3OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8">Ritesh Narayan Shah</a></li>
           </ul>
           <ul>
-            <li><a href="mailto:nikolaseap@gmail.com" role="button"><span class='hi'>👋</span></a></li>
+            <li><a href="mailto:shaharyan93277@gmail.com" role="button"><span class='hi'>👋</span></a></li>
           </ul>
         </section>
       </div>
