@@ -1,6 +1,6 @@
 <div style="width: 100%;">
-  <a href="https://github.com/toxicboi99/toxicboi99/blob/main/ritesh.svg">
-    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  <a href="https://github.com/toxicboi99/toxicboi99/blob/e77af1568ebf2923554f3e303ca868e5d17f1afe/ritesh.svg">
+    <img src="ritesh.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
 <main class="container">
