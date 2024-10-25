@@ -1,8 +1,3 @@
-<div style="width: 100%;">
-  <a href="https://github.com/toxicboi99/toxicboi99/blob/e77af1568ebf2923554f3e303ca868e5d17f1afe/ritesh.svg">
-    <img src="ritesh.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
-</div>
 <main class="container">
 <h1 align="center">Hi 👋, I'm Ritesh Prasad Shah</h1>
 <h3 align="center">Web designer</h3>
