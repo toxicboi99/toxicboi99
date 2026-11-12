@@ -1,32 +1,29 @@
 
-<!--
-  RITESH PRASAD SAH
-  GitHub Profile README
--->
+<!-- ========================================= -->
+<!-- RITESH PRASAD SAH | GITHUB PROFILE README -->
+<!-- ========================================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ritesh+Prasad+Sah;Web+Developer+%7C+Full-Stack+Developer;Next.js+%7C+PHP+%7C+Laravel;Building+Modern+Web+Experiences" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:7C3AED&height=200&section=header&text=Ritesh%20Prasad%20Sah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=17" width="100%"/>
 
-<h3>🚀 Web Developer | Full-Stack Developer</h3>
-
-<p>
-Building modern, responsive and scalable web applications.
-</p>
-
-<a href="https://riteshshah.netlify.app">
-<img src="https://img.shields.io/badge/🌐_PORTFOLIO-VISIT-2563EB?style=for-the-badge" />
-</a>
-<a href="https://linkedin.com/in/ritesh-prasad-sah99">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://github.com/toxicboi99">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile;Next.js+%7C+PHP+%7C+Laravel;WordPress+Developer;Building+Modern+Digital+Experiences" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=toxicboi99&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" />
+<a href="https://riteshshah.netlify.app">
+<img src="https://img.shields.io/badge/PORTFOLIO-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/ritesh-prasad-sah99">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/toxicboi99">
+<img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=toxicboi99&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge"/>
 
 </div>
 
@@ -34,32 +31,52 @@ Building modern, responsive and scalable web applications.
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Ritesh Prasad Sah**, a Web Developer from **Birgunj, Nepal 🇳🇵**, with 2+ years of hands-on experience in web development.
+<img align="right" width="180" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
-I specialize in developing modern websites and web applications using Next.js, PHP, Laravel and WordPress.
+Hi! I'm **Ritesh Prasad Sah**, a passionate Web Developer from **Birgunj, Nepal 🇳🇵**.
+
+With 2+ years of hands-on experience, I specialize in creating modern, responsive and scalable websites and web applications.
 
 - 💻 Professional Web Developer
-- 🚀 Frontend and Backend Development
-- 🎨 Modern UI/UX and Responsive Design
-- ⚡ Website Performance and SEO Optimization
-- 🔧 Domain, Hosting, SSL and Website Migration
-- 🌱 Always exploring new technologies
+- 🚀 Next.js, PHP, Laravel & WordPress
+- 🎨 Modern UI/UX Development
+- ⚡ SEO & Performance Optimization
+- 🔧 Hosting, SSL & Website Migration
+- 🌱 Continuously learning new technologies
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 📊 Developer Overview
 
 <div align="center">
 
-**Programming Languages**
+| <img src="https://img.shields.io/badge/Experience-2%2B%20Years-2563EB?style=for-the-badge"/> | <img src="https://img.shields.io/badge/Location-Nepal-7C3AED?style=for-the-badge"/> |
+|:---:|:---:|
+| Professional Experience | Based in Birgunj |
+
+| <img src="https://img.shields.io/badge/Primary-Next.js-000000?style=for-the-badge&logo=next.js"/> | <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Laravel-777BB4?style=for-the-badge&logo=php"/> |
+|:---:|:---:|
+| Frontend Development | Backend Development |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php" />
 
-**Frameworks & Technologies**
+### ⚡ Frameworks & Technologies
 
 <img src="https://skillicons.dev/icons?i=nextjs,laravel,wordpress,tailwind,bootstrap" />
 
-**Database & Development Tools**
+### 🗄️ Database & Tools
 
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio" />
 
@@ -69,82 +86,145 @@ I specialize in developing modern websites and web applications using Next.js, P
 
 ## 🚀 Featured Projects
 
-### 🛒 QCart – E-Commerce Website
-Next.js based e-commerce web application.
+<table>
+<tr>
+<td width="50%">
 
-🔗 https://qcartv2.vercel.app/
+### 🛒 QCart
 
-### ⚡ ZippyPair – Daily Tools Platform
-Online tools and utilities web application.
+**E-Commerce Website**
 
-🔗 https://zippypair.online/
+- Next.js
+- Modern shopping interface
+- Responsive design
+
+[🌐 Visit Project](https://qcartv2.vercel.app/)
+
+</td>
+<td width="50%">
+
+### ⚡ ZippyPair
+
+**Daily Tools Platform**
+
+- Next.js
+- Online utilities
+- Web tools
+
+[🌐 Visit Project](https://zippypair.online/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 📦 POS System
-PHP and MySQL based project.
 
-🔗 https://github.com/toxicboi99/POS
+**PHP & MySQL Project**
+
+- PHP
+- MySQL
+- Booking/POS functionality
+
+[💻 View Repository](https://github.com/toxicboi99/POS)
+
+</td>
+<td width="50%">
 
 ### 🏦 Flourish Finance
-Professional mortgage website developed using WordPress.
 
-🔗 https://flourishfinance.com.au/
+**Mortgage Website**
+
+- WordPress
+- Responsive website
+- Business presentation
+
+[🌐 Visit Website](https://flourishfinance.com.au/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🎓 UEI Global
-Educational website developed using WordPress.
 
-🔗 https://uei-global.com/
+**College Website**
+
+- WordPress
+- Educational website
+- Responsive layout
+
+[🌐 Visit Website](https://uei-global.com/)
+
+</td>
+<td width="50%">
 
 ### 🌐 Personal Portfolio
-My personal web development portfolio.
 
-🔗 https://riteshshah.netlify.app/
+**Developer Portfolio**
+
+- HTML5
+- CSS3
+- JavaScript
+
+[🌐 Visit Portfolio](https://riteshshah.netlify.app/)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💼 Professional Experience
 
-### Simar Technology Pvt. Ltd.
+### 🏢 Simar Technology Pvt. Ltd.
+
 **Web Developer | 2023 – 2025**
 
-- Developed and maintained responsive WordPress websites.
-- Customized themes and plugins using PHP, HTML, CSS and JavaScript.
-- Built modern websites and applications using Next.js.
+- Developed responsive WordPress websites.
+- Customized themes and plugins using PHP.
+- Built modern web applications using Next.js.
 - Optimized website speed, SEO and mobile responsiveness.
-- Integrated third-party APIs and custom functionalities.
+- Integrated third-party APIs.
 - Managed website updates, backups and security.
-- Troubleshot technical issues and hosting problems.
+- Troubleshot technical and hosting issues.
 
-### Nechno Technology Pvt. Ltd.
+### 💻 Nechno Technology Pvt. Ltd.
+
 **Web Development Intern | 6 Months**
 
-- Assisted in WordPress website development.
-- Customized layouts using HTML, CSS and PHP.
-- Created banners, logos and social media graphics using Canva.
-- Performed website maintenance and bug fixes.
-- Implemented SEO best practices.
-- Worked with senior developers on client projects.
+- WordPress website development.
+- HTML, CSS and basic PHP customization.
+- SEO optimization.
+- Canva banners and graphics.
+- Website maintenance and bug fixing.
+- Client project assistance.
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=toxicboi99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=toxicboi99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toxicboi99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<br/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=toxicboi99&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toxicboi99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=toxicboi99&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/toxicboi99/toxicboi99/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/toxicboi99/toxicboi99/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
 
@@ -152,23 +232,52 @@ My personal web development portfolio.
 
 ## 🎓 Education
 
-🎓 **Bachelor of Computer Applications (BCA)**
+<table>
+<tr>
+<td>🎓</td>
+<td>
 
-Chandigarh University, Punjab, India | 2023–2026
+**Bachelor of Computer Applications (BCA)**
 
-🎓 **Diploma in Computer Engineering**
+Chandigarh University, Punjab, India
 
-Nrisingh Technical Campus, Birgunj, Nepal | 2019–2022
+2023 – 2026
+
+</td>
+</tr>
+<tr>
+<td>💻</td>
+<td>
+
+**Diploma in Computer Engineering**
+
+Nrisingh Technical Campus, Birgunj, Nepal
+
+2019 – 2022
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💡 Personal Skills
+## 💡 Skills & Expertise
 
-- Analytical Thinking & Problem Solving
-- Communication & Collaboration
-- Teamwork & Independent Working
+<div align="center">
+
+<img src="https://img.shields.io/badge/Responsive_Design-Expert-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/WordPress_Development-Expert-21759B?style=flat-square"/>
+<img src="https://img.shields.io/badge/PHP_Development-Professional-777BB4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Next.js_Development-Professional-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/SEO_Optimization-Professional-16A34A?style=flat-square"/>
+
+</div>
+
+- Problem Solving & Analytical Thinking
+- Team Collaboration
+- Communication
 - Time Management
-- Quick Learning & Adaptability
+- Quick Learning
 - Client-Focused Development
 
 ---
@@ -178,15 +287,15 @@ Nrisingh Technical Campus, Birgunj, Nepal | 2019–2022
 <div align="center">
 
 <a href="https://riteshshah.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome"/>
 </a>
 
 <a href="https://linkedin.com/in/ritesh-prasad-sah99">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/toxicboi99">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <br/><br/>
@@ -195,14 +304,14 @@ Nrisingh Technical Campus, Birgunj, Nepal | 2019–2022
 
 📱 **WhatsApp:** +977 9829409955
 
-📍 **Location:** Birgunj, Nepal 🇳🇵
+📍 **Birgunj, Nepal 🇳🇵**
 
----
+<br/>
 
-### 💙 Turning ideas into functional digital experiences.
+### 💙 Turning Ideas Into Functional Digital Experiences
 
 ⭐ Thanks for visiting my GitHub profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=100&section=footer" width="100%" />
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=120&section=footer" width="100%"/>
